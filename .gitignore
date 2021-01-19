@@ -1,0 +1,7 @@
+# Compiled
+*
+
+# Except
+!.gitignore
+!init.el
+!README.org
